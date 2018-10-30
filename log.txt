@@ -1,0 +1,259 @@
+
+Start-Date: 2018-10-04  18:07:00
+Commandline: apt-get install kazam python3-cairo python3-xlib
+Requested-By: arjun1234 (1000)
+Install: gir1.2-appindicator3-0.1:amd64 (12.10.1+18.04.20180322.1-0ubuntu1, automatic), libavfilter6:amd64 (7:3.4.4-0ubuntu0.18.04.1, automatic), libopencore-amrnb0:amd64 (0.1.3-2.1, automatic), libnorm1:amd64 (1.5r6+dfsg1-6, automatic), python3-xlib:amd64 (0.20-3), libpgm-5.2-0:amd64 (5.2.122~dfsg-2, automatic), libzmq5:amd64 (4.2.5-1, automatic), gir1.2-keybinder-3.0:amd64 (0.3.2-1, automatic), libopencore-amrwb0:amd64 (0.1.3-2.1, automatic), librubberband2:amd64 (1.8.1-7ubuntu2, automatic), kazam:amd64 (1.4.5-2), libmysofa0:amd64 (0.6~dfsg0-2, automatic), gstreamer1.0-libav:amd64 (1.14.1-1~ubuntu18.04.1, automatic), libsidplay1v5:amd64 (1.36.59-11, automatic), libbs2b0:amd64 (3.1.0+dfsg-2.2, automatic), libkeybinder-3.0-0:amd64 (0.3.2-1, automatic), libavresample3:amd64 (7:3.4.4-0ubuntu0.18.04.1, automatic), libflite1:amd64 (2.1-release-1, automatic), gstreamer1.0-plugins-ugly:amd64 (1.14.1-1~ubuntu18.04.1, automatic)
+Upgrade: libgstreamer-plugins-base1.0-0:amd64 (1.14.0-2ubuntu1, 1.14.1-1ubuntu1~ubuntu18.04.1), libgstreamer1.0-0:amd64 (1.14.0-1, 1.14.1-1~ubuntu18.04.1)
+End-Date: 2018-10-04  18:07:44
+
+Start-Date: 2018-10-08  11:14:05
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: apparmor:amd64 (2.12-4ubuntu5, 2.12-4ubuntu5.1)
+End-Date: 2018-10-08  11:15:31
+
+Start-Date: 2018-10-08  11:15:35
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: firefox:amd64 (62.0+build2-0ubuntu0.18.04.5, 62.0.3+build1-0ubuntu0.18.04.1)
+End-Date: 2018-10-08  11:15:53
+
+Start-Date: 2018-10-08  11:15:57
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: firefox-locale-en:amd64 (62.0+build2-0ubuntu0.18.04.5, 62.0.3+build1-0ubuntu0.18.04.1)
+End-Date: 2018-10-08  11:16:03
+
+Start-Date: 2018-10-08  11:16:07
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: imagemagick:amd64 (8:6.9.7.4+dfsg-16ubuntu6.3, 8:6.9.7.4+dfsg-16ubuntu6.4)
+End-Date: 2018-10-08  11:16:09
+
+Start-Date: 2018-10-08  11:16:13
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: imagemagick-6-common:amd64 (8:6.9.7.4+dfsg-16ubuntu6.3, 8:6.9.7.4+dfsg-16ubuntu6.4)
+End-Date: 2018-10-08  11:16:16
+
+Start-Date: 2018-10-08  11:16:20
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: imagemagick-6.q16:amd64 (8:6.9.7.4+dfsg-16ubuntu6.3, 8:6.9.7.4+dfsg-16ubuntu6.4)
+End-Date: 2018-10-08  11:16:25
+
+Start-Date: 2018-10-08  11:16:30
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libapparmor1:amd64 (2.12-4ubuntu5, 2.12-4ubuntu5.1)
+End-Date: 2018-10-08  11:16:32
+
+Start-Date: 2018-10-08  11:16:36
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: liblouis-data:amd64 (3.5.0-1ubuntu0.2, 3.5.0-1ubuntu0.3)
+End-Date: 2018-10-08  11:16:38
+
+Start-Date: 2018-10-08  11:16:41
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: liblouis14:amd64 (3.5.0-1ubuntu0.2, 3.5.0-1ubuntu0.3)
+End-Date: 2018-10-08  11:16:43
+
+Start-Date: 2018-10-08  11:16:47
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmagickcore-6.q16-3:amd64 (8:6.9.7.4+dfsg-16ubuntu6.3, 8:6.9.7.4+dfsg-16ubuntu6.4)
+End-Date: 2018-10-08  11:16:49
+
+Start-Date: 2018-10-08  11:16:53
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmagickcore-6.q16-3-extra:amd64 (8:6.9.7.4+dfsg-16ubuntu6.3, 8:6.9.7.4+dfsg-16ubuntu6.4)
+End-Date: 2018-10-08  11:16:54
+
+Start-Date: 2018-10-08  11:16:58
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libmagickwand-6.q16-3:amd64 (8:6.9.7.4+dfsg-16ubuntu6.3, 8:6.9.7.4+dfsg-16ubuntu6.4)
+End-Date: 2018-10-08  11:17:00
+
+Start-Date: 2018-10-08  11:17:03
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: linux-libc-dev:amd64 (4.15.0-34.37, 4.15.0-36.39)
+End-Date: 2018-10-08  11:17:06
+
+Start-Date: 2018-10-08  11:17:10
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: linux-signed-generic:amd64 (4.15.0.34.36, 4.15.0.36.38)
+End-Date: 2018-10-08  11:17:11
+
+Start-Date: 2018-10-08  11:17:15
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: tzdata:amd64 (2018d-1, 2018e-0ubuntu0.18.04)
+End-Date: 2018-10-08  11:17:18
+
+Start-Date: 2018-10-08  11:17:21
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-louis:amd64 (3.5.0-1ubuntu0.2, 3.5.0-1ubuntu0.3)
+End-Date: 2018-10-08  11:17:23
+
+Start-Date: 2018-10-08  11:17:27
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libgs9:amd64 (9.22~dfsg+1-0ubuntu1.2, 9.25~dfsg+1-0ubuntu0.18.04.1), ghostscript:amd64 (9.22~dfsg+1-0ubuntu1.2, 9.25~dfsg+1-0ubuntu0.18.04.1), ghostscript-x:amd64 (9.22~dfsg+1-0ubuntu1.2, 9.25~dfsg+1-0ubuntu0.18.04.1), libgs9-common:amd64 (9.22~dfsg+1-0ubuntu1.2, 9.25~dfsg+1-0ubuntu0.18.04.1)
+End-Date: 2018-10-08  11:17:38
+
+Start-Date: 2018-10-08  11:17:41
+Commandline: /usr/bin/unattended-upgrade
+Install: libbrotli1:amd64 (1.0.3-1ubuntu1.2, automatic), libwoff1:amd64 (1.0.2-1build0.1, automatic)
+Upgrade: libwebkit2gtk-4.0-37:amd64 (2.20.5-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.1), libjavascriptcoregtk-4.0-18:amd64 (2.20.5-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.1)
+End-Date: 2018-10-08  11:17:49
+
+Start-Date: 2018-10-08  11:17:52
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gir1.2-webkit2-4.0:amd64 (2.20.5-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.1), gir1.2-javascriptcoregtk-4.0:amd64 (2.20.5-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.1)
+End-Date: 2018-10-08  11:17:55
+
+Start-Date: 2018-10-09  20:15:47
+Commandline: apt-get install openvpn network-manager-openvpn network-manager-openvpn-gnome
+Requested-By: arjun1234 (1000)
+Install: libpkcs11-helper1:amd64 (1.22-4, automatic), openvpn:amd64 (2.4.4-2ubuntu1.1), network-manager-openvpn:amd64 (1.8.2-1), network-manager-openvpn-gnome:amd64 (1.8.2-1)
+End-Date: 2018-10-09  20:16:27
+
+Start-Date: 2018-10-15  11:40:54
+Commandline: apt install virtualenv
+Requested-By: arjun1234 (1000)
+Install: python3-distutils:amd64 (3.6.5-3, automatic), virtualenv:amd64 (15.1.0+ds-1.1), python3-lib2to3:amd64 (3.6.5-3, automatic), python3-virtualenv:amd64 (15.1.0+ds-1.1, automatic)
+End-Date: 2018-10-15  11:41:05
+
+Start-Date: 2018-10-15  12:12:24
+Commandline: apt install libpython3-dev
+Requested-By: arjun1234 (1000)
+Install: libpython3.6-dev:amd64 (3.6.6-1~18.04, automatic), libpython3-dev:amd64 (3.6.5-3ubuntu1)
+Upgrade: libpython3.6-minimal:amd64 (3.6.5-3, 3.6.6-1~18.04), libpython3.6-stdlib:amd64 (3.6.5-3, 3.6.6-1~18.04), libpython3.6:amd64 (3.6.5-3, 3.6.6-1~18.04), python3.6:amd64 (3.6.5-3, 3.6.6-1~18.04), python3.6-minimal:amd64 (3.6.5-3, 3.6.6-1~18.04)
+End-Date: 2018-10-15  12:13:23
+
+Start-Date: 2018-10-15  12:16:49
+Commandline: apt install python3-tk
+Requested-By: arjun1234 (1000)
+Install: libtcl8.6:amd64 (8.6.8+dfsg-3, automatic), blt:amd64 (2.5.3+dfsg-4, automatic), tk8.6-blt2.5:amd64 (2.5.3+dfsg-4, automatic), python3-tk:amd64 (3.6.5-3), libtk8.6:amd64 (8.6.8-4, automatic)
+End-Date: 2018-10-15  12:16:59
+
+Start-Date: 2018-10-18  00:50:51
+Commandline: apt install travis
+Requested-By: arjun1234 (1000)
+Install: travis:amd64 (170812-1)
+End-Date: 2018-10-18  00:50:59
+
+Start-Date: 2018-10-18  01:20:23
+Commandline: apt-get install ruby-dev
+Requested-By: arjun1234 (1000)
+Install: ruby-dev:amd64 (1:2.5.1), libgmp-dev:amd64 (2:6.1.2+dfsg-2, automatic), ruby2.5-dev:amd64 (2.5.1-1ubuntu1, automatic), ruby2.5-doc:amd64 (2.5.1-1ubuntu1, automatic), libgmpxx4ldbl:amd64 (2:6.1.2+dfsg-2, automatic)
+End-Date: 2018-10-18  01:20:35
+
+Start-Date: 2018-10-20  12:47:52
+Commandline: apt install gcp
+Requested-By: arjun1234 (1000)
+Install: gcp:amd64 (0.1.3-5), python-gobject:amd64 (3.26.1-2, automatic), python-gobject-2:amd64 (2.28.6-12ubuntu3, automatic), python-progressbar:amd64 (2.3-4, automatic)
+End-Date: 2018-10-20  12:48:05
+
+Start-Date: 2018-10-21  16:15:57
+Commandline: apt install ./LBRY_0.25.1.deb
+Requested-By: arjun1234 (1000)
+Install: libindicator7:amd64 (16.10.0+18.04.20180321.1-0ubuntu1, automatic), libappindicator1:amd64 (12.10.1+18.04.20180322.1-0ubuntu1, automatic), lbry:amd64 (0.25.1-3489)
+End-Date: 2018-10-21  16:16:20
+
+Start-Date: 2018-10-22  06:31:52
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: git:amd64 (1:2.17.1-1ubuntu0.1, 1:2.17.1-1ubuntu0.3)
+End-Date: 2018-10-22  06:31:58
+
+Start-Date: 2018-10-22  06:32:02
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: git-man:amd64 (1:2.17.1-1ubuntu0.1, 1:2.17.1-1ubuntu0.3)
+End-Date: 2018-10-22  06:32:09
+
+Start-Date: 2018-10-22  06:32:12
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libkpathsea6:amd64 (2017.20170613.44572-8build1, 2017.20170613.44572-8ubuntu0.1)
+End-Date: 2018-10-22  06:32:14
+
+Start-Date: 2018-10-22  06:32:18
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libsnmp-base:amd64 (5.7.3+dfsg-1.8ubuntu3, 5.7.3+dfsg-1.8ubuntu3.1)
+End-Date: 2018-10-22  06:32:20
+
+Start-Date: 2018-10-22  06:32:23
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libsnmp30:amd64 (5.7.3+dfsg-1.8ubuntu3, 5.7.3+dfsg-1.8ubuntu3.1)
+End-Date: 2018-10-22  06:32:25
+
+Start-Date: 2018-10-22  06:32:28
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libssh-4:amd64 (0.8.0~20170825.94fa1e38-1build1, 0.8.0~20170825.94fa1e38-1ubuntu0.1)
+End-Date: 2018-10-22  06:32:30
+
+Start-Date: 2018-10-22  06:32:34
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libssh-gcrypt-4:amd64 (0.8.0~20170825.94fa1e38-1build1, 0.8.0~20170825.94fa1e38-1ubuntu0.1)
+End-Date: 2018-10-22  06:32:37
+
+Start-Date: 2018-10-22  06:32:40
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libwireshark-data:amd64 (2.4.5-1, 2.6.3-1~ubuntu18.04.1)
+End-Date: 2018-10-22  06:32:42
+
+Start-Date: 2018-10-22  06:32:45
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: python3-requests:amd64 (2.18.4-2, 2.18.4-2ubuntu0.1)
+End-Date: 2018-10-22  06:32:47
+
+Start-Date: 2018-10-22  06:32:50
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: thunderbird-locale-en-us:amd64 (1:52.9.1+build3-0ubuntu0.18.04.1, 1:60.2.1+build1-0ubuntu0.18.04.2)
+End-Date: 2018-10-22  06:32:52
+
+Start-Date: 2018-10-22  06:32:55
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: wireshark:amd64 (2.4.5-1, 2.6.3-1~ubuntu18.04.1)
+End-Date: 2018-10-22  06:32:56
+
+Start-Date: 2018-10-22  06:33:00
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: gir1.2-webkit2-4.0:amd64 (2.22.2-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.2), gir1.2-javascriptcoregtk-4.0:amd64 (2.22.2-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.2)
+End-Date: 2018-10-22  06:33:02
+
+Start-Date: 2018-10-22  06:33:06
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libwebkit2gtk-4.0-37:amd64 (2.22.2-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.2), libjavascriptcoregtk-4.0-18:amd64 (2.22.2-0ubuntu0.18.04.1, 2.22.2-0ubuntu0.18.04.2)
+End-Date: 2018-10-22  06:33:12
+
+Start-Date: 2018-10-22  06:33:15
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: thunderbird-gnome-support:amd64 (1:52.9.1+build3-0ubuntu0.18.04.1, 1:60.2.1+build1-0ubuntu0.18.04.2), thunderbird:amd64 (1:52.9.1+build3-0ubuntu0.18.04.1, 1:60.2.1+build1-0ubuntu0.18.04.2), thunderbird-locale-en:amd64 (1:52.9.1+build3-0ubuntu0.18.04.1, 1:60.2.1+build1-0ubuntu0.18.04.2)
+End-Date: 2018-10-22  06:33:28
+
+Start-Date: 2018-10-22  06:33:32
+Commandline: /usr/bin/unattended-upgrade
+Install: libwireshark11:amd64 (2.6.3-1~ubuntu18.04.1, automatic), libwiretap8:amd64 (2.6.3-1~ubuntu18.04.1, automatic), libwsutil9:amd64 (2.6.3-1~ubuntu18.04.1, automatic), libwscodecs2:amd64 (2.6.3-1~ubuntu18.04.1, automatic)
+Upgrade: tshark:amd64 (2.4.5-1, 2.6.3-1~ubuntu18.04.1), wireshark-common:amd64 (2.4.5-1, 2.6.3-1~ubuntu18.04.1), wireshark-qt:amd64 (2.4.5-1, 2.6.3-1~ubuntu18.04.1)
+End-Date: 2018-10-22  06:34:22
+
+Start-Date: 2018-10-22  06:34:27
+Commandline: /usr/bin/unattended-upgrade
+Remove: libwireshark10:amd64 (2.4.5-1), libwiretap7:amd64 (2.4.5-1)
+End-Date: 2018-10-22  06:34:29
+
+Start-Date: 2018-10-22  06:34:32
+Commandline: /usr/bin/unattended-upgrade
+Remove: geoip-database-extra:amd64 (20180315-1)
+End-Date: 2018-10-22  06:34:33
+
+Start-Date: 2018-10-22  06:34:36
+Commandline: /usr/bin/unattended-upgrade
+Remove: libwscodecs1:amd64 (2.4.5-1)
+End-Date: 2018-10-22  06:34:38
+
+Start-Date: 2018-10-22  06:34:41
+Commandline: /usr/bin/unattended-upgrade
+Remove: libjs-openlayers:amd64 (2.13.1+ds2-4)
+End-Date: 2018-10-22  06:34:42
+
+Start-Date: 2018-10-22  06:34:45
+Commandline: /usr/bin/unattended-upgrade
+Remove: libwsutil8:amd64 (2.4.5-1)
+End-Date: 2018-10-22  06:34:46
+
+Start-Date: 2018-10-27  02:03:03
+Commandline: apt install nload
+Requested-By: arjun1234 (1000)
+Install: nload:amd64 (0.7.4-2)
+End-Date: 2018-10-27  02:03:11
