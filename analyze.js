@@ -1,6 +1,6 @@
 
 const fs=require('fs');
-let str=fs.readFileSync('/var/log/apt/history.log','utf8');
+let str=fs.readFileSync('/home/arjun1234/history.log','utf8');
 
 
 let install_packages=()=>{
@@ -8,6 +8,7 @@ let patt1 = /Install:(.*)/g;
 let match=str.match(patt1);
 let new_match=[];
 
+if(match){
 match.forEach((ele,i)=>{
 
     match[i]=ele.replace("Install: ","");
@@ -15,17 +16,23 @@ match.forEach((ele,i)=>{
         new_match=new_match.concat(match[i].trim().split('),'));
     else
         new_match=new_match.concat(match[i].trim().split(','));
-});
+
+    });
+        
 new_match.forEach((ele,i)=>{
     new_match[i]=ele.replace(' ','');
 });
     return new_match;
 }
+else
+    return [];
+}
+
 let removed_packages=()=>{
     let patt1 = /Remove:(.*)/g;
     let match=str.match(patt1);
     let new_match=[];
-    
+    if(match){
     match.forEach((ele,i)=>{
     
         match[i]=ele.replace("Remove: ","");
@@ -38,7 +45,11 @@ let removed_packages=()=>{
         new_match[i]=ele.replace(' ','');
     });
         return new_match;
-    
+
+    }
+    else 
+        return [];
+
 }
 
 if(process.argv[2]=='ls')
